@@ -1,0 +1,1 @@
+﻿<%@ WebService Language="C#" CodeBehind="Service.asmx.cs" Class="DS_stats_WebService.Service" %>

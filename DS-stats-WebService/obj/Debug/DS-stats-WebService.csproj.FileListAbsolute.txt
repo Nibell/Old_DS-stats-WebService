@@ -1,0 +1,35 @@
+c:\users\vegas\documents\visual studio 2010\Projects\DS-stats-WebService\DS-stats-WebService\bin\DS-stats-WebService.dll
+c:\users\vegas\documents\visual studio 2010\Projects\DS-stats-WebService\DS-stats-WebService\bin\DS-stats-WebService.pdb
+c:\users\vegas\documents\visual studio 2010\Projects\DS-stats-WebService\DS-stats-WebService\obj\Debug\ResolveAssemblyReference.cache
+c:\users\vegas\documents\visual studio 2010\Projects\DS-stats-WebService\DS-stats-WebService\obj\Debug\DS-stats-WebService.dll
+c:\users\vegas\documents\visual studio 2010\Projects\DS-stats-WebService\DS-stats-WebService\obj\Debug\DS-stats-WebService.pdb
+C:\Users\anhe\Dropbox\WSI400\DS-stats-WebService\DS-stats-WebService\bin\DS-stats-WebService.dll
+C:\Users\anhe\Dropbox\WSI400\DS-stats-WebService\DS-stats-WebService\bin\DS-stats-WebService.pdb
+C:\Users\anhe\Dropbox\WSI400\DS-stats-WebService\DS-stats-WebService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\anhe\Dropbox\WSI400\DS-stats-WebService\DS-stats-WebService\obj\Debug\DS-stats-WebService.dll
+C:\Users\anhe\Dropbox\WSI400\DS-stats-WebService\DS-stats-WebService\obj\Debug\DS-stats-WebService.pdb
+C:\Users\labr0001\Downloads\DS-stats-WebService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\labr0001\Downloads\DS-stats-WebService\obj\Debug\DS-stats-WebService.dll
+C:\Users\labr0001\Downloads\DS-stats-WebService\obj\Debug\DS-stats-WebService.pdb
+C:\Users\labr0001\Downloads\DS-stats-WebService\bin\DS-stats-WebService.dll
+C:\Users\labr0001\Downloads\DS-stats-WebService\bin\DS-stats-WebService.pdb
+C:\Users\vegas\Downloads\New zip(3)\dsStats\DS-stats-WebService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vegas\Downloads\New zip(3)\dsStats\DS-stats-WebService\obj\Debug\DS-stats-WebService.dll
+C:\Users\vegas\Downloads\New zip(3)\dsStats\DS-stats-WebService\obj\Debug\DS-stats-WebService.pdb
+C:\Users\vegas\Downloads\New zip(3)\dsStats\DS-stats-WebService\bin\DS-stats-WebService.dll
+C:\Users\vegas\Downloads\New zip(3)\dsStats\DS-stats-WebService\bin\DS-stats-WebService.pdb
+C:\Users\Linus\Desktop\dsStats\DS-stats-WebService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Linus\Desktop\dsStats\DS-stats-WebService\obj\Debug\DS-stats-WebService.dll
+C:\Users\Linus\Desktop\dsStats\DS-stats-WebService\obj\Debug\DS-stats-WebService.pdb
+C:\Users\Linus\Desktop\dsStats\DS-stats-WebService\bin\DS-stats-WebService.dll
+C:\Users\Linus\Desktop\dsStats\DS-stats-WebService\bin\DS-stats-WebService.pdb
+E:\dsStats\DS-stats-WebService\bin\DS-stats-WebService.dll
+E:\dsStats\DS-stats-WebService\bin\DS-stats-WebService.pdb
+E:\dsStats\DS-stats-WebService\obj\Debug\ResolveAssemblyReference.cache
+E:\dsStats\DS-stats-WebService\obj\Debug\DS-stats-WebService.dll
+E:\dsStats\DS-stats-WebService\obj\Debug\DS-stats-WebService.pdb
+G:\dsStats\DS-stats-WebService\bin\DS-stats-WebService.dll
+G:\dsStats\DS-stats-WebService\bin\DS-stats-WebService.pdb
+G:\dsStats\DS-stats-WebService\obj\Debug\ResolveAssemblyReference.cache
+G:\dsStats\DS-stats-WebService\obj\Debug\DS-stats-WebService.dll
+G:\dsStats\DS-stats-WebService\obj\Debug\DS-stats-WebService.pdb
